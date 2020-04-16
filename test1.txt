@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is CABB-38E1
+
+ Directory of C:\Users\SHIVAM DIXIT\Desktop\myproject
+
+16-04-2020  09:25    <DIR>          .
+16-04-2020  09:25    <DIR>          ..
+16-04-2020  09:25                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  780,482,347,008 bytes free
